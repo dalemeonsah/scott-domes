@@ -8,5 +8,6 @@ module.exports = {
 
   favouriteTeam: "New England Patriots",
   bestQuotes: "Mackenzie sucks",
+  website: "https://scottdomes.com"
 
 }
