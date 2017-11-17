@@ -1,0 +1,23 @@
+{
+  "name": "scott-domes",
+  "version": "1.0.0",
+  "description": "Fun project about Scott Domes",
+  "main": "scott.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalemeonsah/scott-domes.git"
+  },
+  "keywords": [
+    "scott",
+    "domes"
+  ],
+  "author": "Reinhard Simeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalemeonsah/scott-domes/issues"
+  },
+  "homepage": "https://github.com/dalemeonsah/scott-domes#readme"
+}
